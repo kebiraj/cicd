@@ -16,4 +16,4 @@ Push the image to Docker Hub
 Pull and run the image
 First step, running up the services
 
-Since one of the goals is to obtain the Sonarqube report of our project, we should be able to access sonarqube from the jenkins service. Docker compose is a best choice to run services working together.
+Since one of the goals is to obtain the Sonarqube report of our project, we should be able to access sonarqube from the jenkins service. Docker compose is a best choice to run services working together.# cicd
